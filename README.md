@@ -15,6 +15,8 @@ Lo screenshot `_visualizzazione.png` mostra come dovrebbe essere la visualizzazi
 
 ---
 
+---
+
 ## Risorse utili
 
 • [Learn CSS](https://web.dev/learn/css/)
@@ -26,6 +28,8 @@ Lo screenshot `_visualizzazione.png` mostra come dovrebbe essere la visualizzazi
 • [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 • [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+• [Guida interattiva alle Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
 • [CSS Tricks - Position](https://css-tricks.com/almanac/properties/p/position/)
 
