@@ -1,3 +1,22 @@
 .italic {
   font-style: italic;
 }
+.debug-border {
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+}
+
+section.section-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.img-wrapper {
+  background: bisque;
+}
+
+.fake-img {
+  height: 200px;
+  background: gray;
+}
