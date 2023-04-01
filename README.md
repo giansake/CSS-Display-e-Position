@@ -19,6 +19,8 @@ Lo screenshot `_visualizzazione.png` mostra come dovrebbe essere la visualizzazi
 
 ## Risorse utili
 
+• [Figma mock-up per l'esercitazione](https://www.figma.com/file/0LhqXfPAGJ5oOqUrV8Ancn/Display-e-Position?node-id=0%3A1&t=E6wHEJpAPlzONRVC-1)
+
 • [Learn CSS](https://web.dev/learn/css/)
 
 • [Selettori CSS: tag, classe, id](https://web.dev/learn/css/selectors/)
