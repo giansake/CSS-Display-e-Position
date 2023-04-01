@@ -25,11 +25,24 @@ section.section-container {
 
 div.img-wrapper > header {
   position: absolute;
-  top: 0;
+  top: 10px;
   left: 0;
 }
 
 .fake-img {
   height: 200px;
   background: gray;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+div.input {
+  height: 20px;
+  background-color: aquamarine;
+  border: 1px solid black;
 }
