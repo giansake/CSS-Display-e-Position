@@ -51,7 +51,7 @@ Considerato l'evoluzione dello [Scheumorfismo](https://appleinsider.com/articles
 • [CSS Gradient](https://cssgradient.io/)
 
 • [CSS Gradient Generator - Josh Comeau](https://www.joshwcomeau.com/gradient-generator/)
-Il nostro collega Josh Comeau ha creato un generatore di gradienti CSS che compensa un problema che le sfumature hanno in CSS: un punto di grigio nel centro. Qui potete leggere il suo articolo riguardo questo problema: [CSS Gradients: The Missing Piece](https://www.joshwcomeau.com/css/css-gradients/)
+Il nostro collega Josh Comeau ha creato un generatore di gradienti CSS che compensa un problema che le sfumature hanno in CSS: un punto di grigio nel centro. Qui potete leggere il suo articolo riguardo questo problema: [CSS Gradients: The Missing Piece](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 
 ---
 
